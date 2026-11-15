@@ -5,11 +5,19 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Personal Finance Tracker</title>
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
     <h1>Personal Finance Tracker</h1>
     <p>Manage your income and expenses in one place.</p>
+    <br>
+
+    <a href="register.php">Create an Account</a>
+
+    <br><br>
+
+    <a href="login.php">Login</a>
 
     <hr>
 
